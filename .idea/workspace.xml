@@ -1,14 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7bdc067-4332-406d-bbf9-de6f005ebd20" name="Changes" comment="" />
+    <list default="true" id="d7bdc067-4332-406d-bbf9-de6f005ebd20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayStack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayStack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTree/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinaryTreeSearch/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dictionary/Dict.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dictionary/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graph/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeapSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Huffman/Huffman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Huffman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Huffman/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JonesTrotter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LineSearch/LineSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackSum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_recurtion/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoLinkedList/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoLinkedList/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/merge_sort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quickSort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stek.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JPPYsQzGoR8ZDz27IEXguuMCeJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,7 +66,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Дмитрий/stek"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,5 +92,22 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String_recurtion/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/Huffman/Node.java</url>
+          <line>6</line>
+          <properties field="right" class="Huffman.Node" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

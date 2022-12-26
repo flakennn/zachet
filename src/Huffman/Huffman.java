@@ -13,7 +13,7 @@ public class Huffman {
             m.put(c, m.getOrDefault(c, 0) + 1);
         }
 
-        PriorityQueue<Node> pq = new PriorityQueue<>(Comparator.comparingInt(Node::getFrequncy));
+        PriorityQueue<Node> pq = new PriorityQueue<>(Comparator.comparingInt(Node::getFrequency));
         for(var i: m.entrySet()){
             pq.add(new Node(i.getKey(), i.getValue()));
         }
@@ -21,7 +21,7 @@ public class Huffman {
         while(pq.size() != 1){
             Node left = pq.poll();
             Node right = pq.poll();
-            Node newNode = new Node(null, left.getFrequncy() + right.getFrequncy());
+            Node newNode = new Node(null, left.getFrequency() + right.getFrequency());
             newNode.setLeft(left);
             newNode.setRight(right);
             pq.add(newNode);
